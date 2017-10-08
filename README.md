@@ -1,4 +1,4 @@
-<h3 style="#0366D6">隐式跳转 预览 <a href="it365.pw" >it365.pw</a></a></h3><br />
+<h3 style="#4dd4dd">隐式跳转 预览 <a href="http://it365.pw/" >it365.pw</a></a></h3><br />
 利用GitHu做页面跳转,
 向你的 Github Pages 仓库添加一个CNAME(一定要*大写*)文件
 现在国内的博客都不支持绑定顶级域名了，大多给你一个类似于xx.com/dd/的网址，让你域名cname都没有地方，查了下资料，找到了url隐藏转发的方式，代码实现如index.html
